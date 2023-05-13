@@ -49,8 +49,19 @@ img{
     color:rgb(199, 220, 94);
 }
 #mail:hover{
-    color:bisque;
+    color:rgb(199, 220, 94);
 }
+#mail{
+    color:orange;
+}
+#copy:hover{
+  color:rgb(59, 44, 45);
+}
+#button2:hover{
+    color:black;
+}
+#num:hover{
+    color:green;
 nav{
     font-weight: 600;
 }
