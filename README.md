@@ -1,2 +1,2 @@
 # portfolio
-<a href="kumaarhere.github.io/portfolio ">Check Out </a>
+<a href="https://kumaarhere.github.io/portfolio/">Check Out </a>
